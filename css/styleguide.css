@@ -1,0 +1,120 @@
+:root { 
+  --black: #000000;
+  --black-2: #0000001f;
+  --red: #ff0000;
+ 
+  --font-size-m: 40px;
+  --font-size-s: 32px;
+  --font-size-xs: 25px;
+  --font-size-xxs: 24.5px;
+  --font-size-xxxs: 24px;
+  --font-size-xxxxs: 19px;
+  --font-size-xxxxxs: 15px;
+ 
+  --font-family-alkalami: "Alkalami", Helvetica;
+  --font-family-almarai: "Almarai", Helvetica;
+  --font-family-libre_bodoni: "Libre Bodoni", Helvetica;
+}
+.almarai-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-almarai);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.almarai-light-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-almarai);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.almarai-bold-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-almarai);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.almarai-normal-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-almarai);
+  font-size: var(--font-size-xxxxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.almarai-light-black-32px {
+  color: var(--black);
+  font-family: var(--font-family-almarai);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.almarai-extra-bold-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-almarai);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.almarai-extra-bold-black-25px {
+  color: var(--black);
+  font-family: var(--font-family-almarai);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.almarai-normal-black-29px {
+  color: var(--black);
+  font-family: var(--font-family-almarai);
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.alkalami-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-alkalami);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.alkalami-normal-black-48px {
+  color: var(--black);
+  font-family: var(--font-family-alkalami);
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.almarai-light-black-19px {
+  color: var(--black);
+  font-family: var(--font-family-almarai);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.almarai-normal-black-24-5px {
+  color: var(--black);
+  font-family: var(--font-family-almarai);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.almarai-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-almarai);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
